@@ -1,0 +1,845 @@
+[
+  {
+    "slug": "high-rise-facade",
+    "title": "High Rise Building Facade",
+    "description": "A seamless fusion of architecture and nature.",
+    "category_label": "Architectural Design",
+    "categories": "design render modeling",
+    "card_image": "assets/img/portfolio/high-rise-facade-card.webp",
+    "card_width": 880,
+    "card_height": 586,
+    "full_image": "assets/img/portfolio/high-rise-facade-lg.webp",
+    "image_alt": "High rise building facade with layered planting and glazed balconies",
+    "tags": [
+      "Revit",
+      "D5 Render",
+      "Mixed-use"
+    ],
+    "span": "wide",
+    "sort": 1,
+    "meta_title": "High Rise Building Facade | Archilance LLC",
+    "meta_description": "A seamless fusion of architecture and nature.",
+    "summary": "A seamless fusion of architecture and nature.",
+    "body": "<p>A seamless fusion of architecture and nature.</p>\n<p>The brief here was a design one: work the massing and the elevations until the building reads the way it should from the street, then take it far enough that the drawings can be built on.</p>\n<p>Everything sits in one coordinated model, so a change to a plan updates the elevations and the render with it. That is the point of working this way — no drift between what was agreed and what gets issued.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Architectural Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept to design development"
+      },
+      {
+        "label": "Project type",
+        "value": "Mixed-use"
+      },
+      {
+        "label": "Software",
+        "value": "Revit · D5 Render"
+      }
+    ],
+    "deliverables": [
+      "Massing and plan options",
+      "Resolved plans, elevations and sections",
+      "Coordinated 3D model",
+      "Presentation renders"
+    ]
+  },
+  {
+    "slug": "contemporary-luxury-villa",
+    "title": "Contemporary Luxury Villa",
+    "description": "A contemporary home blending clean lines, natural materials and timeless design.",
+    "category_label": "Architectural Design",
+    "categories": "design render modeling",
+    "card_image": "assets/img/portfolio/contemporary-luxury-villa-card.webp",
+    "card_width": 880,
+    "card_height": 586,
+    "full_image": "assets/img/portfolio/contemporary-luxury-villa-lg.webp",
+    "image_alt": "Contemporary two-storey luxury villa with stone and timber cladding",
+    "tags": [
+      "Revit",
+      "D5 Render",
+      "Residential"
+    ],
+    "span": null,
+    "sort": 2,
+    "meta_title": "Contemporary Luxury Villa | Archilance LLC",
+    "meta_description": "A contemporary home blending clean lines, natural materials and timeless design.",
+    "summary": "A contemporary home blending clean lines, natural materials and timeless design.",
+    "body": "<p>A contemporary home blending clean lines, natural materials and timeless design.</p>\n<p>The brief here was a design one: work the massing and the elevations until the building reads the way it should from the street, then take it far enough that the drawings can be built on.</p>\n<p>Everything sits in one coordinated model, so a change to a plan updates the elevations and the render with it. That is the point of working this way — no drift between what was agreed and what gets issued.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Architectural Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept to design development"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "Revit · D5 Render"
+      }
+    ],
+    "deliverables": [
+      "Massing and plan options",
+      "Resolved plans, elevations and sections",
+      "Coordinated 3D model",
+      "Presentation renders"
+    ]
+  },
+  {
+    "slug": "adu-vertical",
+    "title": "ADU Cladding Study",
+    "description": "A closer look at the accessory dwelling unit — cladding, proportion and trim detail resolved in Revit.",
+    "category_label": "Revit & BIM",
+    "categories": "design render bim",
+    "card_image": "assets/img/portfolio/adu-vertical-card.webp",
+    "card_width": 513,
+    "card_height": 1100,
+    "full_image": "assets/img/portfolio/adu-vertical-lg.webp",
+    "image_alt": "Close-up render of an accessory dwelling unit showing board and batten cladding",
+    "tags": [
+      "Revit",
+      "Residential"
+    ],
+    "span": "tall",
+    "sort": 3,
+    "meta_title": "ADU Cladding Study | Archilance LLC",
+    "meta_description": "A closer look at the accessory dwelling unit — cladding, proportion and trim detail resolved in Revit.",
+    "summary": "A closer look at the accessory dwelling unit ? cladding, proportion and trim detail resolved in Revit.",
+    "body": "<p>A closer look at the accessory dwelling unit ? cladding, proportion and trim detail resolved in Revit.</p>\n<p>This was a modelling job first: build it properly in Revit so the sheets, the schedules and the details all come off one source rather than being drawn twice.</p>\n<p>We work inside the client's own template, title block and naming conventions, so what arrives can be opened and carried on with rather than rebuilt.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Revit & BIM"
+      },
+      {
+        "label": "Stage",
+        "value": "Modelling and documentation"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "Revit"
+      }
+    ],
+    "deliverables": [
+      "Native Revit model",
+      "Sheets set up to your template",
+      "Schedules driven by the model",
+      "Detail resolution"
+    ]
+  },
+  {
+    "slug": "white-stone-apartments",
+    "title": "White Stone Apartments",
+    "description": "Where modern luxury meets nature's harmony in the heart of Rwanda.",
+    "category_label": "Architectural Design",
+    "categories": "design render modeling",
+    "card_image": "assets/img/portfolio/white-stone-apartments-card.webp",
+    "card_width": 880,
+    "card_height": 539,
+    "full_image": "assets/img/portfolio/white-stone-apartments-lg.webp",
+    "image_alt": "White Stone Apartments exterior visualisation in Rwanda",
+    "tags": [
+      "Revit",
+      "D5 Render",
+      "Rwanda"
+    ],
+    "span": null,
+    "sort": 4,
+    "meta_title": "White Stone Apartments | Archilance LLC",
+    "meta_description": "Where modern luxury meets nature's harmony in the heart of Rwanda.",
+    "summary": "Where modern luxury meets nature's harmony in the heart of Rwanda.",
+    "body": "<p>Where modern luxury meets nature's harmony in the heart of Rwanda.</p>\n<p>The brief here was a design one: work the massing and the elevations until the building reads the way it should from the street, then take it far enough that the drawings can be built on.</p>\n<p>Everything sits in one coordinated model, so a change to a plan updates the elevations and the render with it. That is the point of working this way — no drift between what was agreed and what gets issued.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Architectural Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept to design development"
+      },
+      {
+        "label": "Location",
+        "value": "Rwanda"
+      },
+      {
+        "label": "Software",
+        "value": "Revit · D5 Render"
+      }
+    ],
+    "deliverables": [
+      "Massing and plan options",
+      "Resolved plans, elevations and sections",
+      "Coordinated 3D model",
+      "Presentation renders"
+    ]
+  },
+  {
+    "slug": "barnhouse-bliss",
+    "title": "Barnhouse Bliss",
+    "description": "A rustic-modern barn design merging timeless craftsmanship with nature-inspired aesthetics.",
+    "category_label": "Architectural Design",
+    "categories": "design render modeling",
+    "card_image": "assets/img/portfolio/barnhouse-bliss-card.webp",
+    "card_width": 880,
+    "card_height": 586,
+    "full_image": "assets/img/portfolio/barnhouse-bliss-lg.webp",
+    "image_alt": "Modern barnhouse with timber gable and desert planting",
+    "tags": [
+      "SketchUp",
+      "Lumion",
+      "Residential"
+    ],
+    "span": null,
+    "sort": 5,
+    "meta_title": "Barnhouse Bliss | Archilance LLC",
+    "meta_description": "A rustic-modern barn design merging timeless craftsmanship with nature-inspired aesthetics.",
+    "summary": "A rustic-modern barn design merging timeless craftsmanship with nature-inspired aesthetics.",
+    "body": "<p>A rustic-modern barn design merging timeless craftsmanship with nature-inspired aesthetics.</p>\n<p>The brief here was a design one: work the massing and the elevations until the building reads the way it should from the street, then take it far enough that the drawings can be built on.</p>\n<p>Everything sits in one coordinated model, so a change to a plan updates the elevations and the render with it. That is the point of working this way — no drift between what was agreed and what gets issued.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Architectural Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept to design development"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "SketchUp · Lumion"
+      }
+    ],
+    "deliverables": [
+      "Massing and plan options",
+      "Resolved plans, elevations and sections",
+      "Coordinated 3D model",
+      "Presentation renders"
+    ]
+  },
+  {
+    "slug": "modern-gym",
+    "title": "Modern Gym",
+    "description": "A modern gym in dark tones, integrating the company's theme and branding for a sleek, cohesive ambiance.",
+    "category_label": "Interior Design",
+    "categories": "interior render modeling",
+    "card_image": "assets/img/portfolio/modern-gym-card.webp",
+    "card_width": 880,
+    "card_height": 539,
+    "full_image": "assets/img/portfolio/modern-gym-lg.webp",
+    "image_alt": "Modern gym interior in dark tones with branded green lighting",
+    "tags": [
+      "SketchUp",
+      "Lumion",
+      "Commercial"
+    ],
+    "span": "wide",
+    "sort": 6,
+    "meta_title": "Modern Gym | Archilance LLC",
+    "meta_description": "A modern gym in dark tones, integrating the company's theme and branding for a sleek, cohesive ambiance.",
+    "summary": "A modern gym in dark tones, integrating the company's theme and branding for a sleek, cohesive ambiance.",
+    "body": "<p>A modern gym in dark tones, integrating the company's theme and branding for a sleek, cohesive ambiance.</p>\n<p>Interiors are decided on feel long before they are decided on plan, so this one was resolved in views: layout, light and finish tested together until the room read right.</p>\n<p>The material palette, the lighting and the furniture are all modelled rather than dropped in at render time, which means the images and the drawings describe the same room.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Interior Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept and visualisation"
+      },
+      {
+        "label": "Project type",
+        "value": "Commercial"
+      },
+      {
+        "label": "Software",
+        "value": "SketchUp · Lumion"
+      }
+    ],
+    "deliverables": [
+      "Layout and circulation study",
+      "Material and finish palette",
+      "Lighting scheme",
+      "Photoreal interior views"
+    ]
+  },
+  {
+    "slug": "accessory-dwelling-unit",
+    "title": "Accessory Dwelling Unit",
+    "description": "Innovative and efficient design execution.",
+    "category_label": "Revit & BIM",
+    "categories": "design render bim",
+    "card_image": "assets/img/portfolio/accessory-dwelling-unit-card.webp",
+    "card_width": 880,
+    "card_height": 539,
+    "full_image": "assets/img/portfolio/accessory-dwelling-unit-lg.webp",
+    "image_alt": "Accessory dwelling unit exterior render with grey vertical cladding",
+    "tags": [
+      "Revit",
+      "D5 Render",
+      "United States"
+    ],
+    "span": null,
+    "sort": 7,
+    "meta_title": "Accessory Dwelling Unit | Archilance LLC",
+    "meta_description": "Innovative and efficient design execution.",
+    "summary": "Innovative and efficient design execution.",
+    "body": "<p>Innovative and efficient design execution.</p>\n<p>This was a modelling job first: build it properly in Revit so the sheets, the schedules and the details all come off one source rather than being drawn twice.</p>\n<p>We work inside the client's own template, title block and naming conventions, so what arrives can be opened and carried on with rather than rebuilt.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Revit & BIM"
+      },
+      {
+        "label": "Stage",
+        "value": "Modelling and documentation"
+      },
+      {
+        "label": "Location",
+        "value": "United States"
+      },
+      {
+        "label": "Software",
+        "value": "Revit · D5 Render"
+      }
+    ],
+    "deliverables": [
+      "Native Revit model",
+      "Sheets set up to your template",
+      "Schedules driven by the model",
+      "Detail resolution"
+    ]
+  },
+  {
+    "slug": "kitchen-interior",
+    "title": "Kitchen Interior",
+    "description": "Modern elegance meets timeless tradition in kitchens.",
+    "category_label": "Interior Design",
+    "categories": "interior render bim",
+    "card_image": "assets/img/portfolio/kitchen-interior-card.webp",
+    "card_width": 880,
+    "card_height": 538,
+    "full_image": "assets/img/portfolio/kitchen-interior-lg.webp",
+    "image_alt": "Kitchen interior with timber cabinetry and stone worktops",
+    "tags": [
+      "Revit",
+      "D5 Render",
+      "Residential"
+    ],
+    "span": null,
+    "sort": 8,
+    "meta_title": "Kitchen Interior | Archilance LLC",
+    "meta_description": "Modern elegance meets timeless tradition in kitchens.",
+    "summary": "Modern elegance meets timeless tradition in kitchens.",
+    "body": "<p>Modern elegance meets timeless tradition in kitchens.</p>\n<p>Interiors are decided on feel long before they are decided on plan, so this one was resolved in views: layout, light and finish tested together until the room read right.</p>\n<p>The material palette, the lighting and the furniture are all modelled rather than dropped in at render time, which means the images and the drawings describe the same room.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Interior Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept and visualisation"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "Revit · D5 Render"
+      }
+    ],
+    "deliverables": [
+      "Layout and circulation study",
+      "Material and finish palette",
+      "Lighting scheme",
+      "Photoreal interior views"
+    ]
+  },
+  {
+    "slug": "meadowbrook-farmhouse",
+    "title": "Meadowbrook Farmhouse",
+    "description": "The rustic charm of the countryside with modern luxury.",
+    "category_label": "Landscape",
+    "categories": "landscape render modeling",
+    "card_image": "assets/img/portfolio/meadowbrook-farmhouse-card.webp",
+    "card_width": 880,
+    "card_height": 539,
+    "full_image": "assets/img/portfolio/meadowbrook-farmhouse-lg.webp",
+    "image_alt": "Meadowbrook Farmhouse pool terrace and pergola overlooking a lake",
+    "tags": [
+      "Lumion",
+      "SketchUp",
+      "Residential"
+    ],
+    "span": null,
+    "sort": 9,
+    "meta_title": "Meadowbrook Farmhouse | Archilance LLC",
+    "meta_description": "The rustic charm of the countryside with modern luxury.",
+    "summary": "The rustic charm of the countryside with modern luxury.",
+    "body": "<p>The rustic charm of the countryside with modern luxury.</p>\n<p>Landscape work lives or dies on how the building meets the ground, so this one started from levels and circulation rather than from planting.</p>\n<p>Once the site logic held, the planting and surfaces were built up in the model and tested under different light, which is the fastest way to settle a scheme everyone can picture.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Landscape"
+      },
+      {
+        "label": "Stage",
+        "value": "Landscape concept and visualisation"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "Lumion · SketchUp"
+      }
+    ],
+    "deliverables": [
+      "Site and levels study",
+      "Planting and hard-landscape layout",
+      "Seasonal and time-of-day studies",
+      "Presentation views"
+    ]
+  },
+  {
+    "slug": "racing-track-landscape",
+    "title": "Racing Track & Landscape Design",
+    "description": "A seamless blend of adrenaline and nature.",
+    "category_label": "Landscape",
+    "categories": "landscape render modeling",
+    "card_image": "assets/img/portfolio/racing-track-landscape-card.webp",
+    "card_width": 880,
+    "card_height": 538,
+    "full_image": "assets/img/portfolio/racing-track-landscape-lg.webp",
+    "image_alt": "Aerial view of a racing track set into a planted valley landscape",
+    "tags": [
+      "Lumion",
+      "SketchUp",
+      "Commercial"
+    ],
+    "span": "wide",
+    "sort": 10,
+    "meta_title": "Racing Track & Landscape Design | Archilance LLC",
+    "meta_description": "A seamless blend of adrenaline and nature.",
+    "summary": "A seamless blend of adrenaline and nature.",
+    "body": "<p>A seamless blend of adrenaline and nature.</p>\n<p>Landscape work lives or dies on how the building meets the ground, so this one started from levels and circulation rather than from planting.</p>\n<p>Once the site logic held, the planting and surfaces were built up in the model and tested under different light, which is the fastest way to settle a scheme everyone can picture.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Landscape"
+      },
+      {
+        "label": "Stage",
+        "value": "Landscape concept and visualisation"
+      },
+      {
+        "label": "Project type",
+        "value": "Commercial"
+      },
+      {
+        "label": "Software",
+        "value": "Lumion · SketchUp"
+      }
+    ],
+    "deliverables": [
+      "Site and levels study",
+      "Planting and hard-landscape layout",
+      "Seasonal and time-of-day studies",
+      "Presentation views"
+    ]
+  },
+  {
+    "slug": "modern-living-room",
+    "title": "Modern Living Room Interior",
+    "description": "Modern living rooms designed for both style and comfort.",
+    "category_label": "Interior Design",
+    "categories": "interior render modeling",
+    "card_image": "assets/img/portfolio/modern-living-room-card.webp",
+    "card_width": 880,
+    "card_height": 539,
+    "full_image": "assets/img/portfolio/modern-living-room-lg.webp",
+    "image_alt": "Modern living room with full height glazing and layered lighting",
+    "tags": [
+      "Lumion",
+      "SketchUp",
+      "Residential"
+    ],
+    "span": null,
+    "sort": 11,
+    "meta_title": "Modern Living Room Interior | Archilance LLC",
+    "meta_description": "Modern living rooms designed for both style and comfort.",
+    "summary": "Modern living rooms designed for both style and comfort.",
+    "body": "<p>Modern living rooms designed for both style and comfort.</p>\n<p>Interiors are decided on feel long before they are decided on plan, so this one was resolved in views: layout, light and finish tested together until the room read right.</p>\n<p>The material palette, the lighting and the furniture are all modelled rather than dropped in at render time, which means the images and the drawings describe the same room.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Interior Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept and visualisation"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "Lumion · SketchUp"
+      }
+    ],
+    "deliverables": [
+      "Layout and circulation study",
+      "Material and finish palette",
+      "Lighting scheme",
+      "Photoreal interior views"
+    ]
+  },
+  {
+    "slug": "vertical-plan",
+    "title": "Wellness Centre — Street View",
+    "description": "The existing building rebuilt in 3D and re-clad in brick and timber that sit better with the street.",
+    "category_label": "Architectural Design",
+    "categories": "design modeling render",
+    "card_image": "assets/img/portfolio/vertical-plan-card.webp",
+    "card_width": 575,
+    "card_height": 1100,
+    "full_image": "assets/img/portfolio/vertical-plan-lg.webp",
+    "image_alt": "Wellness centre street elevation re-clad in brick and timber",
+    "tags": [
+      "SketchUp",
+      "Commercial"
+    ],
+    "span": "tall",
+    "sort": 12,
+    "meta_title": "Wellness Centre — Street View | Archilance LLC",
+    "meta_description": "The existing building rebuilt in 3D and re-clad in brick and timber that sit better with the street.",
+    "summary": "The existing building rebuilt in 3D and re-clad in brick and timber that sit better with the street.",
+    "body": "<p>The existing building rebuilt in 3D and re-clad in brick and timber that sit better with the street.</p>\n<p>The brief here was a design one: work the massing and the elevations until the building reads the way it should from the street, then take it far enough that the drawings can be built on.</p>\n<p>Everything sits in one coordinated model, so a change to a plan updates the elevations and the render with it. That is the point of working this way — no drift between what was agreed and what gets issued.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Architectural Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept to design development"
+      },
+      {
+        "label": "Project type",
+        "value": "Commercial"
+      },
+      {
+        "label": "Software",
+        "value": "SketchUp"
+      }
+    ],
+    "deliverables": [
+      "Massing and plan options",
+      "Resolved plans, elevations and sections",
+      "Coordinated 3D model",
+      "Presentation renders"
+    ]
+  },
+  {
+    "slug": "cozy-interior-fireplace",
+    "title": "Cozy Interior with Fireplace",
+    "description": "A cosy yet elegant living space balancing contemporary design with classic charm.",
+    "category_label": "Interior Design",
+    "categories": "interior render modeling",
+    "card_image": "assets/img/portfolio/cozy-interior-fireplace-card.webp",
+    "card_width": 880,
+    "card_height": 586,
+    "full_image": "assets/img/portfolio/cozy-interior-fireplace-lg.webp",
+    "image_alt": "Living room with arched alcoves flanking a linear fireplace",
+    "tags": [
+      "Lumion",
+      "SketchUp",
+      "Residential"
+    ],
+    "span": null,
+    "sort": 13,
+    "meta_title": "Cozy Interior with Fireplace | Archilance LLC",
+    "meta_description": "A cosy yet elegant living space balancing contemporary design with classic charm.",
+    "summary": "A cosy yet elegant living space balancing contemporary design with classic charm.",
+    "body": "<p>A cosy yet elegant living space balancing contemporary design with classic charm.</p>\n<p>Interiors are decided on feel long before they are decided on plan, so this one was resolved in views: layout, light and finish tested together until the room read right.</p>\n<p>The material palette, the lighting and the furniture are all modelled rather than dropped in at render time, which means the images and the drawings describe the same room.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Interior Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept and visualisation"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "Lumion · SketchUp"
+      }
+    ],
+    "deliverables": [
+      "Layout and circulation study",
+      "Material and finish palette",
+      "Lighting scheme",
+      "Photoreal interior views"
+    ]
+  },
+  {
+    "slug": "modern-residential-interior",
+    "title": "Modern Residential Interior",
+    "description": "A harmonious blend of modernity and comfort.",
+    "category_label": "Interior Design",
+    "categories": "interior render modeling",
+    "card_image": "assets/img/portfolio/modern-residential-interior-card.webp",
+    "card_width": 880,
+    "card_height": 539,
+    "full_image": "assets/img/portfolio/modern-residential-interior-lg.webp",
+    "image_alt": "Bedroom interior with slatted timber wall and marble detailing",
+    "tags": [
+      "Lumion",
+      "SketchUp",
+      "Residential"
+    ],
+    "span": null,
+    "sort": 14,
+    "meta_title": "Modern Residential Interior | Archilance LLC",
+    "meta_description": "A harmonious blend of modernity and comfort.",
+    "summary": "A harmonious blend of modernity and comfort.",
+    "body": "<p>A harmonious blend of modernity and comfort.</p>\n<p>Interiors are decided on feel long before they are decided on plan, so this one was resolved in views: layout, light and finish tested together until the room read right.</p>\n<p>The material palette, the lighting and the furniture are all modelled rather than dropped in at render time, which means the images and the drawings describe the same room.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Interior Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept and visualisation"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "Lumion · SketchUp"
+      }
+    ],
+    "deliverables": [
+      "Layout and circulation study",
+      "Material and finish palette",
+      "Lighting scheme",
+      "Photoreal interior views"
+    ]
+  },
+  {
+    "slug": "innovative-landscape-design",
+    "title": "Innovative Landscape Design",
+    "description": "Transform your outdoor spaces, where creativity meets functionality.",
+    "category_label": "Landscape",
+    "categories": "landscape render modeling",
+    "card_image": "assets/img/portfolio/innovative-landscape-design-card.webp",
+    "card_width": 880,
+    "card_height": 539,
+    "full_image": "assets/img/portfolio/innovative-landscape-design-lg.webp",
+    "image_alt": "Front garden landscape design with layered planting and paved drive",
+    "tags": [
+      "Lumion",
+      "SketchUp",
+      "Residential"
+    ],
+    "span": null,
+    "sort": 15,
+    "meta_title": "Innovative Landscape Design | Archilance LLC",
+    "meta_description": "Transform your outdoor spaces, where creativity meets functionality.",
+    "summary": "Transform your outdoor spaces, where creativity meets functionality.",
+    "body": "<p>Transform your outdoor spaces, where creativity meets functionality.</p>\n<p>Landscape work lives or dies on how the building meets the ground, so this one started from levels and circulation rather than from planting.</p>\n<p>Once the site logic held, the planting and surfaces were built up in the model and tested under different light, which is the fastest way to settle a scheme everyone can picture.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Landscape"
+      },
+      {
+        "label": "Stage",
+        "value": "Landscape concept and visualisation"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "Lumion · SketchUp"
+      }
+    ],
+    "deliverables": [
+      "Site and levels study",
+      "Planting and hard-landscape layout",
+      "Seasonal and time-of-day studies",
+      "Presentation views"
+    ]
+  },
+  {
+    "slug": "chic-home-workspace",
+    "title": "Chic Home Workspace",
+    "description": "Where productivity meets peace — a workspace that inspires and elevates.",
+    "category_label": "Interior Design",
+    "categories": "interior render modeling",
+    "card_image": "assets/img/portfolio/chic-home-workspace-card.webp",
+    "card_width": 880,
+    "card_height": 587,
+    "full_image": "assets/img/portfolio/chic-home-workspace-lg.webp",
+    "image_alt": "Home office nook with green cabinetry, open shelving and plants",
+    "tags": [
+      "Lumion",
+      "SketchUp",
+      "Residential"
+    ],
+    "span": null,
+    "sort": 16,
+    "meta_title": "Chic Home Workspace | Archilance LLC",
+    "meta_description": "Where productivity meets peace — a workspace that inspires and elevates.",
+    "summary": "Where productivity meets peace ? a workspace that inspires and elevates.",
+    "body": "<p>Where productivity meets peace ? a workspace that inspires and elevates.</p>\n<p>Interiors are decided on feel long before they are decided on plan, so this one was resolved in views: layout, light and finish tested together until the room read right.</p>\n<p>The material palette, the lighting and the furniture are all modelled rather than dropped in at render time, which means the images and the drawings describe the same room.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Interior Design"
+      },
+      {
+        "label": "Stage",
+        "value": "Concept and visualisation"
+      },
+      {
+        "label": "Project type",
+        "value": "Residential"
+      },
+      {
+        "label": "Software",
+        "value": "Lumion · SketchUp"
+      }
+    ],
+    "deliverables": [
+      "Layout and circulation study",
+      "Material and finish palette",
+      "Lighting scheme",
+      "Photoreal interior views"
+    ]
+  },
+  {
+    "slug": "existing-building-google-maps",
+    "title": "Existing Building from Google Maps",
+    "description": "Recreated from Google Maps with added materials that enhance its harmony with the surroundings.",
+    "category_label": "3D Modeling",
+    "categories": "design render modeling",
+    "card_image": "assets/img/portfolio/existing-building-google-maps-card.webp",
+    "card_width": 880,
+    "card_height": 539,
+    "full_image": "assets/img/portfolio/existing-building-google-maps-lg.webp",
+    "image_alt": "Existing single storey commercial building recreated in 3D from map imagery",
+    "tags": [
+      "SketchUp",
+      "Commercial"
+    ],
+    "span": null,
+    "sort": 17,
+    "meta_title": "Existing Building from Google Maps | Archilance LLC",
+    "meta_description": "Recreated from Google Maps with added materials that enhance its harmony with the surroundings.",
+    "summary": "Recreated from Google Maps with added materials that enhance its harmony with the surroundings.",
+    "body": "<p>Recreated from Google Maps with added materials that enhance its harmony with the surroundings.</p>\n<p>Before anything can be proposed, the existing has to be measured and modelled. This one was built up from the available survey and imagery into geometry that is accurate enough to design against.</p>\n<p>The output is deliberately clean and lightweight — a base to build on, not a presentation piece.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "3D Modeling"
+      },
+      {
+        "label": "Stage",
+        "value": "Survey and existing-conditions model"
+      },
+      {
+        "label": "Project type",
+        "value": "Commercial"
+      },
+      {
+        "label": "Software",
+        "value": "SketchUp"
+      }
+    ],
+    "deliverables": [
+      "Existing-conditions 3D model",
+      "Massing in context",
+      "Clean geometry ready to design onto",
+      "Reference views"
+    ]
+  },
+  {
+    "slug": "construction-permit-set",
+    "title": "Construction Permit Set",
+    "description": "Comprehensive, precise documentation ensuring smooth and efficient permit approval.",
+    "category_label": "Permit Sets",
+    "categories": "bim",
+    "card_image": "assets/img/portfolio/construction-permit-set-card.webp",
+    "card_width": 880,
+    "card_height": 741,
+    "full_image": "assets/img/portfolio/construction-permit-set-lg.webp",
+    "image_alt": "Construction permit set floor plan with dimensions and window schedule",
+    "tags": [
+      "Revit",
+      "AutoCAD",
+      "Permit Set"
+    ],
+    "span": null,
+    "sort": 18,
+    "meta_title": "Construction Permit Set | Archilance LLC",
+    "meta_description": "Comprehensive, precise documentation ensuring smooth and efficient permit approval.",
+    "summary": "Comprehensive, precise documentation ensuring smooth and efficient permit approval.",
+    "body": "<p>Comprehensive, precise documentation ensuring smooth and efficient permit approval.</p>\n<p>A permit set has one job: get through review without a round of comments. This one was formatted to the authority's requirements from the start rather than converted at the end.</p>\n<p>Every sheet is checked against the code notes and the dimensions before issue, and the set goes out with the native files alongside the PDFs.</p>",
+    "facts": [
+      {
+        "label": "Discipline",
+        "value": "Permit Sets"
+      },
+      {
+        "label": "Stage",
+        "value": "Permit-ready documentation"
+      },
+      {
+        "label": "Project type",
+        "value": "Permit Set"
+      },
+      {
+        "label": "Software",
+        "value": "Revit · AutoCAD"
+      }
+    ],
+    "deliverables": [
+      "Full drawing set to authority format",
+      "Code and dimension checks",
+      "Sheet index and title blocks",
+      "Issue-ready PDFs and natives"
+    ]
+  }
+]

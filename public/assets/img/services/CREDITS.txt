@@ -1,0 +1,11 @@
+Service imagery sourced from Pexels (free to use, attribution appreciated).
+
+services-hub: photo by Tima Miroshnichenko on Pexels — https://www.pexels.com/photo/floor-plans-on-white-table-6615036/
+landscape-architecture: photo by Samer Daboul on Pexels — https://www.pexels.com/photo/green-leaves-of-outdoor-plants-8091888/
+revit-drafting: photo by Ivan S on Pexels — https://www.pexels.com/photo/a-photo-of-a-floor-plan-4458205/
+construction-permit-sets: photo by Pavel Danilyuk on Pexels — https://www.pexels.com/photo/sunlit-sketches-helmet-and-level-7937313/
+point-cloud-to-bim: photo by Nelson Axigoth on Pexels — https://www.pexels.com/photo/a-man-in-orange-and-yellow-vest-5802821/
+architecture-design: photo by Bernie Fussenegger on Pexels — https://www.pexels.com/photo/facade-of-a-modern-building-in-city-at-sunset-14269903/
+3d-modeling-rendering: photo by Salman Saqib on Pexels — https://www.pexels.com/photo/modern-minimalist-home-interior-design-28456460/
+3d-architectural-animation: photo by Alex Fu on Pexels — https://www.pexels.com/photo/adobe-premier-application-screengrab-1188751/
+interior-design: photo by Max Vakhtbovych on Pexels — https://www.pexels.com/photo/interior-of-living-room-in-modern-apartment-7214166/

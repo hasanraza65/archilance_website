@@ -1,0 +1,14 @@
+{
+  "name": "Archilance LLC — Architecture Outsourcing Services",
+  "short_name": "Archilance",
+  "description": "Revit drafting, BIM, construction & permit sets, 3D rendering and animation from $11.84/hr.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#08090a",
+  "theme_color": "#08090a",
+  "icons": [
+    { "src": "/assets/img/brand/favicon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/img/brand/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

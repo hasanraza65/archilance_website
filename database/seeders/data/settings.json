@@ -1,0 +1,266 @@
+[
+  {
+    "group": "general",
+    "key": "site_name",
+    "value": "Archilance LLC",
+    "type": "text",
+    "label": "Site name",
+    "sort": 1
+  },
+  {
+    "group": "general",
+    "key": "tagline",
+    "value": "Architecture outsourcing done properly",
+    "type": "text",
+    "label": "Tagline",
+    "sort": 2
+  },
+  {
+    "group": "general",
+    "key": "logo",
+    "value": "assets/img/brand/logo-mark.webp",
+    "type": "image",
+    "label": "Logo mark",
+    "sort": 3
+  },
+  {
+    "group": "general",
+    "key": "footer_blurb",
+    "value": "Architecture outsourcing done properly — Revit drafting, BIM, permit sets, 3D rendering and animation for firms, builders and developers worldwide.",
+    "type": "textarea",
+    "label": "Footer blurb",
+    "sort": 4
+  },
+  {
+    "group": "contact",
+    "key": "email",
+    "value": "info@archilance.net",
+    "type": "text",
+    "label": "Email",
+    "sort": 5
+  },
+  {
+    "group": "contact",
+    "key": "phone",
+    "value": "+1-934-204-2245",
+    "type": "text",
+    "label": "Phone",
+    "sort": 6
+  },
+  {
+    "group": "contact",
+    "key": "phone_link",
+    "value": "+19342042245",
+    "type": "text",
+    "label": "Phone (dial format)",
+    "sort": 7
+  },
+  {
+    "group": "contact",
+    "key": "whatsapp",
+    "value": "19342042245",
+    "type": "text",
+    "label": "WhatsApp number",
+    "sort": 8
+  },
+  {
+    "group": "contact",
+    "key": "reply_time",
+    "value": "Replies within 24 hours",
+    "type": "text",
+    "label": "Reply-time note",
+    "sort": 9
+  },
+  {
+    "group": "contact",
+    "key": "office_us_title",
+    "value": "United States",
+    "type": "text",
+    "label": "US office title",
+    "sort": 10
+  },
+  {
+    "group": "contact",
+    "key": "office_us",
+    "value": "611 South DuPont Highway, Suite 102\nDover, Delaware",
+    "type": "textarea",
+    "label": "US office address",
+    "sort": 11
+  },
+  {
+    "group": "contact",
+    "key": "office_pk_title",
+    "value": "Pakistan",
+    "type": "text",
+    "label": "PK office title",
+    "sort": 12
+  },
+  {
+    "group": "contact",
+    "key": "office_pk",
+    "value": "Office 106, 4th Floor, Mega Tower\nGulberg 3, Lahore",
+    "type": "textarea",
+    "label": "PK office address",
+    "sort": 13
+  },
+  {
+    "group": "social",
+    "key": "linkedin",
+    "value": "https://www.linkedin.com/company/archilance",
+    "type": "text",
+    "label": "LinkedIn",
+    "sort": 14
+  },
+  {
+    "group": "social",
+    "key": "behance",
+    "value": "https://www.behance.net/archilance",
+    "type": "text",
+    "label": "Behance",
+    "sort": 15
+  },
+  {
+    "group": "seo",
+    "key": "meta_title",
+    "value": "Architecture Outsourcing Services | Archilance LLC",
+    "type": "text",
+    "label": "Default meta title",
+    "sort": 16
+  },
+  {
+    "group": "seo",
+    "key": "meta_description",
+    "value": "Hire a full architecture team from $11.84/hr — Revit drafting, BIM, permit sets, 3D rendering & animation for firms worldwide. 3-day free trial.",
+    "type": "textarea",
+    "label": "Default meta description",
+    "sort": 17
+  },
+  {
+    "group": "seo",
+    "key": "meta_keywords",
+    "value": "architecture outsourcing services, revit drafting outsourcing, BIM outsourcing services, 3D architectural rendering services",
+    "type": "textarea",
+    "label": "Default keywords",
+    "sort": 18
+  },
+  {
+    "group": "seo",
+    "key": "og_image",
+    "value": "assets/img/hero/hero-1.webp",
+    "type": "image",
+    "label": "Default share image",
+    "sort": 19
+  },
+  {
+    "group": "seo",
+    "key": "canonical_base",
+    "value": "https://archilance.net",
+    "type": "text",
+    "label": "Canonical base URL",
+    "sort": 20
+  },
+  {
+    "group": "seo",
+    "key": "robots",
+    "value": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "type": "text",
+    "label": "Robots directive",
+    "sort": 21
+  },
+  {
+    "group": "seo",
+    "key": "google_analytics",
+    "value": "",
+    "type": "textarea",
+    "label": "Google Analytics / GTM snippet",
+    "sort": 22
+  },
+  {
+    "group": "seo",
+    "key": "head_scripts",
+    "value": "",
+    "type": "textarea",
+    "label": "Extra <head> scripts",
+    "sort": 23
+  },
+  {
+    "group": "seo",
+    "key": "body_scripts",
+    "value": "",
+    "type": "textarea",
+    "label": "Extra end-of-body scripts",
+    "sort": 24
+  },
+  {
+    "group": "stats",
+    "key": "years",
+    "value": "6",
+    "type": "number",
+    "label": "Years of work",
+    "sort": 25
+  },
+  {
+    "group": "stats",
+    "key": "models",
+    "value": "600",
+    "type": "number",
+    "label": "Revit models built",
+    "sort": 26
+  },
+  {
+    "group": "stats",
+    "key": "rating",
+    "value": "5.0",
+    "type": "text",
+    "label": "Upwork rating",
+    "sort": 27
+  },
+  {
+    "group": "stats",
+    "key": "reviews",
+    "value": "19",
+    "type": "number",
+    "label": "Five-star reviews",
+    "sort": 28
+  },
+  {
+    "group": "stats",
+    "key": "team_size",
+    "value": "48",
+    "type": "number",
+    "label": "People on the team",
+    "sort": 29
+  },
+  {
+    "group": "pricing",
+    "key": "from_rate",
+    "value": "11.84",
+    "type": "text",
+    "label": "Lowest hourly rate",
+    "sort": 30
+  },
+  {
+    "group": "pricing",
+    "key": "hourly_rate",
+    "value": "28",
+    "type": "text",
+    "label": "Hourly engagement rate",
+    "sort": 31
+  },
+  {
+    "group": "pricing",
+    "key": "trial_days",
+    "value": "3",
+    "type": "number",
+    "label": "Free trial length (days)",
+    "sort": 32
+  },
+  {
+    "group": "pricing",
+    "key": "quote_config",
+    "value": "",
+    "type": "json",
+    "label": "Quote builder rules (JSON) — leave blank to use the built-in defaults",
+    "sort": 33
+  }
+]

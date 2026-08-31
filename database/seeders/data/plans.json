@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Basic",
+    "price": "1,895",
+    "period": "/mo",
+    "hours": "160 hours · $11.84/hr · 40 hrs a week",
+    "rate_note": null,
+    "features": [
+      "Unlimited design requests",
+      "Unlimited revisions",
+      "40 hours a week",
+      "Cancel anytime",
+      "Pause anytime",
+      "Weekly meeting",
+      "One active task at a time",
+      "1 team member dedicated to your project"
+    ],
+    "cta_label": "Subscribe",
+    "featured": false,
+    "sort": 1
+  },
+  {
+    "name": "Standard",
+    "price": "2,500",
+    "period": "/mo",
+    "hours": "240 hours · $10.42/hr · 60 hrs a week",
+    "rate_note": null,
+    "features": [
+      "Unlimited design requests",
+      "Unlimited revisions",
+      "60 hours a week",
+      "Cancel anytime",
+      "Pause anytime",
+      "Weekly meeting",
+      "Multiple active tasks at a time",
+      "Dedicated project manager",
+      "Time tracking",
+      "2 team members dedicated to your project"
+    ],
+    "cta_label": "Subscribe",
+    "featured": true,
+    "sort": 2
+  },
+  {
+    "name": "Hourly",
+    "price": "28",
+    "period": "/hr",
+    "hours": "Pay only for the hours you use · 1 day free trial",
+    "rate_note": null,
+    "features": [
+      "1 day free trial",
+      "Unlimited design requests",
+      "Unlimited revisions",
+      "Unlimited hours a week",
+      "Cancel anytime",
+      "Pause anytime",
+      "Weekly meeting",
+      "Multiple active tasks at a time",
+      "Dedicated project manager",
+      "Time tracking"
+    ],
+    "cta_label": "Subscribe",
+    "featured": false,
+    "sort": 3
+  }
+]

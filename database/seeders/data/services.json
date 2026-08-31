@@ -1,0 +1,894 @@
+[
+  {
+    "slug": "architecture-design",
+    "name": "Architecture Design Services",
+    "short_name": "Architecture Design",
+    "icon": "i-svc-design",
+    "hero_image": "assets/img/services/architecture-design-hero.webp",
+    "hero_image_sm": "assets/img/services/architecture-design-hero-sm.webp",
+    "card_image": "assets/img/services/architecture-design-card.webp",
+    "image_alt": "Timber-slatted contemporary building facade lit at dusk",
+    "h1_lead": "Architecture design,",
+    "h1_gold": "from first sketch to construction-ready.",
+    "lede": "Concept, schematic design and design development handled by qualified architects — so your studio can take on more work without adding headcount.",
+    "stats": [
+      {
+        "value": "48h",
+        "label": "First concept back"
+      },
+      {
+        "value": "Unlimited",
+        "label": "Design revisions"
+      },
+      {
+        "value": "$11.84",
+        "label": "Per hour from"
+      }
+    ],
+    "intro": [
+      "Most firms lose good projects because the design phase eats the calendar. Archilance takes the drawing work off your desk — massing studies, plan iterations, elevations and the design development that turns an idea into something a contractor can price.",
+      "You brief us the way you would brief a junior architect: a sketch, a site plan, a planning constraint, a mood board. We come back with drawn options rather than questions, and we keep iterating until the scheme is right."
+    ],
+    "deliverables": [
+      {
+        "title": "Site & massing studies",
+        "text": "Setback, orientation, solar and view analysis turned into massing options you can actually present."
+      },
+      {
+        "title": "Floor plans & elevations",
+        "text": "Fully dimensioned plans, elevations and sections drawn to your office standards and title block."
+      },
+      {
+        "title": "Design development sets",
+        "text": "The drawing package that closes the gap between a concept and a costed, buildable scheme."
+      },
+      {
+        "title": "3D concept visuals",
+        "text": "Quick massing renders early, photoreal images later — so clients approve the right scheme first time."
+      },
+      {
+        "title": "Area schedules",
+        "text": "Gross and net area take-offs, unit mixes and efficiency ratios kept live as the plan changes."
+      },
+      {
+        "title": "Planning-ready drawings",
+        "text": "Presentation-grade sheets formatted for the submission your jurisdiction expects."
+      }
+    ],
+    "process": [
+      {
+        "title": "Brief & constraints",
+        "text": "You send the site, the programme and the constraints. We confirm scope and deadline in writing before anything is drawn."
+      },
+      {
+        "title": "Concept options",
+        "text": "Two or three distinct massing and plan options within 48 hours, so the conversation starts with drawings."
+      },
+      {
+        "title": "Develop the winner",
+        "text": "We resolve the chosen option — structure, circulation, envelope — and iterate until you sign it off."
+      },
+      {
+        "title": "Hand over natives",
+        "text": "Revit, CAD and PDF sheets in your template, ready for the next phase or another consultant."
+      }
+    ],
+    "tools": [
+      "Autodesk Revit",
+      "AutoCAD",
+      "SketchUp",
+      "Rhino",
+      "D5 Render",
+      "Photoshop",
+      "InDesign"
+    ],
+    "faqs": [
+      {
+        "q": "Do you work to our office drawing standards?",
+        "a": "Yes. Send us your Revit template, title block, layer standards and sheet naming convention and we will work inside it. Everything comes back looking like your studio drew it, because for all practical purposes we did."
+      },
+      {
+        "q": "Can you take a project from concept all the way to permit?",
+        "a": "Yes. Architecture design, construction and permit sets, and Revit drafting are all covered by the same subscription — there is no handover fee between phases and no change of team."
+      },
+      {
+        "q": "Who owns the drawings and the intellectual property?",
+        "a": "You do, completely. Every file, model and image we produce is yours on delivery. We sign an NDA before the first file moves if you would like one."
+      },
+      {
+        "q": "How many design revisions are included?",
+        "a": "Unlimited. Subscribers send as many design requests and revisions as they need; we work them in priority order rather than billing per change."
+      }
+    ],
+    "related": [
+      "revit-drafting",
+      "3d-modeling-rendering",
+      "construction-permit-sets"
+    ],
+    "portfolio_filter": "design",
+    "meta_title": "Architecture Design Services | Archilance LLC",
+    "meta_description": "Outsource architectural design from $11.84/hr — concept, schematic and design development by qualified architects. Unlimited revisions, 3-day free trial.",
+    "meta_keywords": "architecture design services, architectural design outsourcing, concept design architect, schematic design services, design development outsourcing, hire architects remotely",
+    "sort": 1
+  },
+  {
+    "slug": "landscape-architecture",
+    "name": "Landscape Architectural Services",
+    "short_name": "Landscape Architecture",
+    "icon": "i-svc-landscape",
+    "hero_image": "assets/img/services/landscape-architecture-hero.webp",
+    "hero_image_sm": "assets/img/services/landscape-architecture-hero-sm.webp",
+    "card_image": "assets/img/services/landscape-architecture-card.webp",
+    "image_alt": "Planted roof terrace with clipped hedging and timber decking",
+    "h1_lead": "Landscape architecture that",
+    "h1_gold": "makes the building sit right.",
+    "lede": "Planting plans, hardscape layouts, grading and visualisation — outdoor space designed to work with the architecture rather than decorate it afterwards.",
+    "stats": [
+      {
+        "value": "Native",
+        "label": "CAD & Revit files"
+      },
+      {
+        "value": "Zone-aware",
+        "label": "Planting schedules"
+      },
+      {
+        "value": "$11.84",
+        "label": "Per hour from"
+      }
+    ],
+    "intro": [
+      "Landscape is usually the last thing drawn and the first thing value-engineered out. We treat it as part of the building: circulation, drainage, privacy and shade resolved alongside the plan rather than bolted on at the end.",
+      "Whether you need a full external works package or just a planting plan and a render to win an approval, the work is drawn to the same standard as the architecture — and delivered in files your consultants can keep working in."
+    ],
+    "deliverables": [
+      {
+        "title": "Site & planting plans",
+        "text": "Layout drawings with species selection appropriate to the hardiness zone, soil and maintenance budget."
+      },
+      {
+        "title": "Hardscape & paving layouts",
+        "text": "Setting-out drawings for paving, walls, steps and edges, with materials and jointing called up."
+      },
+      {
+        "title": "Grading & drainage",
+        "text": "Spot levels, falls and surface-water strategy coordinated with the building threshold levels."
+      },
+      {
+        "title": "Lighting & irrigation",
+        "text": "External lighting layouts and irrigation zoning drawn to work with the planting, not against it."
+      },
+      {
+        "title": "Planting schedules",
+        "text": "Quantified schedules with sizes, spacing and establishment notes ready to price."
+      },
+      {
+        "title": "Landscape visuals",
+        "text": "Day and dusk renders that show the scheme after establishment, not on day one."
+      }
+    ],
+    "process": [
+      {
+        "title": "Survey & context",
+        "text": "We start from your survey, levels and the building footprint, plus the local climate and planting constraints."
+      },
+      {
+        "title": "Concept layout",
+        "text": "Zoning, circulation and a first planting palette — enough to agree the character before detail begins."
+      },
+      {
+        "title": "Technical drawings",
+        "text": "Setting-out, levels, drainage, schedules and details drawn to construction standard."
+      },
+      {
+        "title": "Visuals & handover",
+        "text": "Renders for approval, then the native CAD and Revit files for your team."
+      }
+    ],
+    "tools": [
+      "AutoCAD",
+      "Autodesk Revit",
+      "SketchUp",
+      "Lumion",
+      "Civil 3D",
+      "Photoshop"
+    ],
+    "faqs": [
+      {
+        "q": "Do you know planting for our climate?",
+        "a": "We design to the USDA hardiness zone or local equivalent for your site and specify species that are commercially available in that market. If you have a preferred nursery list or a municipal approved-species schedule, we work from it."
+      },
+      {
+        "q": "Can you coordinate landscape with our Revit model?",
+        "a": "Yes. We can work directly in your Revit model with topography and site components, or supply linked CAD that lines up with your building grid and levels."
+      },
+      {
+        "q": "Do you produce drawings for planning submissions?",
+        "a": "Yes — landscape plans, planting schedules and green-space calculations formatted for the submission your authority requires."
+      },
+      {
+        "q": "Is landscape included in the monthly subscription?",
+        "a": "Yes. Landscape architecture is one of the disciplines covered by the same flat subscription, so you can move hours between landscape, architecture and visualisation as the project needs."
+      }
+    ],
+    "related": [
+      "architecture-design",
+      "3d-modeling-rendering",
+      "interior-design"
+    ],
+    "portfolio_filter": "landscape",
+    "meta_title": "Landscape Architecture Services & Outsourcing | Archilance LLC",
+    "meta_description": "Outsource landscape architecture from $11.84/hr — planting plans, hardscape layouts, grading and photoreal landscape visuals for firms and developers.",
+    "meta_keywords": "landscape architecture services, landscape design outsourcing, planting plan drafting, hardscape design services, landscape rendering, outsource landscape architect",
+    "sort": 2
+  },
+  {
+    "slug": "revit-drafting",
+    "name": "Revit Drafting & BIM Outsourcing",
+    "short_name": "Revit Drafting",
+    "icon": "i-svc-revit",
+    "hero_image": "assets/img/services/revit-drafting-hero.webp",
+    "hero_image_sm": "assets/img/services/revit-drafting-hero-sm.webp",
+    "card_image": "assets/img/services/revit-drafting-card.webp",
+    "image_alt": "Detailed architectural floor plan drawing with dimensions",
+    "h1_lead": "Revit drafting and BIM,",
+    "h1_gold": "modelled properly the first time.",
+    "lede": "LOD 100 to 400 models, sheet production, parametric families and coordination — built in your template, to your standards, by drafters who work in Revit every day.",
+    "stats": [
+      {
+        "value": "600+",
+        "label": "Revit models built"
+      },
+      {
+        "value": "LOD 100-400",
+        "label": "Modelled to spec"
+      },
+      {
+        "value": "$11.84",
+        "label": "Per hour from"
+      }
+    ],
+    "intro": [
+      "A BIM model is only worth what you can pull out of it. We build models that schedule correctly, cut clean sections and survive being handed to a structural engineer — not geometry that merely looks right in a 3D view.",
+      "Send a PDF set, a CAD background, a point cloud or a napkin sketch. It comes back as a structured Revit model with the worksets, view templates, filters and sheet set-up your office already uses."
+    ],
+    "deliverables": [
+      {
+        "title": "LOD 100-400 models",
+        "text": "Modelled to the level of development your phase actually needs, documented so everyone knows what is in there."
+      },
+      {
+        "title": "Sheet & view production",
+        "text": "Plans, RCPs, elevations, sections and details laid out on sheets in your title block."
+      },
+      {
+        "title": "Parametric families",
+        "text": "Custom Revit families with the parameters, types and lookup tables your schedules depend on."
+      },
+      {
+        "title": "CAD to Revit conversion",
+        "text": "Legacy 2D drawing sets rebuilt as a coordinated, intelligent model."
+      },
+      {
+        "title": "Clash detection",
+        "text": "Navisworks coordination between architectural, structural and MEP models with a tracked issue log."
+      },
+      {
+        "title": "Schedules & take-offs",
+        "text": "Door, window, room, finish and material schedules that stay live as the model changes."
+      }
+    ],
+    "process": [
+      {
+        "title": "Standards handshake",
+        "text": "You send your template, shared parameters and naming conventions. We set up and confirm before modelling."
+      },
+      {
+        "title": "Model build",
+        "text": "Geometry built workset by workset with a documented LOD, so nothing is over- or under-modelled."
+      },
+      {
+        "title": "QA against source",
+        "text": "Every level, grid and dimension checked back against your source drawings by a second drafter."
+      },
+      {
+        "title": "Sheets & delivery",
+        "text": "Views placed, sheets issued and the native .rvt handed over with a change log."
+      }
+    ],
+    "tools": [
+      "Autodesk Revit",
+      "Navisworks",
+      "Dynamo",
+      "AutoCAD",
+      "BIM 360",
+      "Recap"
+    ],
+    "faqs": [
+      {
+        "q": "Will you work in our Revit template?",
+        "a": "Always. We model inside your template with your shared parameters, view templates, filters and title block. If you do not have one, we can build a reusable template for you as a one-off task."
+      },
+      {
+        "q": "What LOD do you model to?",
+        "a": "Anything from LOD 100 massing to LOD 400 fabrication-level detail. We agree the LOD per element category in writing before we start so there is no argument about scope later."
+      },
+      {
+        "q": "Can you convert our old CAD drawings into Revit?",
+        "a": "Yes — CAD to Revit conversion is one of our most requested tasks. Send the DWG set and we rebuild it as a coordinated model, flagging any inconsistencies we find between drawings as we go."
+      },
+      {
+        "q": "How do you handle version control?",
+        "a": "We work in your Revit version, never a newer one that would force an upgrade. Files are exchanged through your BIM 360, Dropbox or Drive, and every issue carries a change log."
+      }
+    ],
+    "related": [
+      "construction-permit-sets",
+      "point-cloud-to-bim",
+      "architecture-design"
+    ],
+    "portfolio_filter": "bim",
+    "meta_title": "Revit Drafting & BIM Outsourcing Services | Archilance LLC",
+    "meta_description": "Outsource Revit drafting and BIM modelling from $11.84/hr — LOD 100-400 models, sheet production, families and clash-free coordination in your template.",
+    "meta_keywords": "revit drafting outsourcing, bim outsourcing services, revit modelling services, outsource revit drafting, LOD 350 bim model, revit family creation, bim coordination services",
+    "sort": 3
+  },
+  {
+    "slug": "construction-permit-sets",
+    "name": "Construction & Permit Sets",
+    "short_name": "Construction & Permit Sets",
+    "icon": "i-svc-permit",
+    "hero_image": "assets/img/services/construction-permit-sets-hero.webp",
+    "hero_image_sm": "assets/img/services/construction-permit-sets-hero-sm.webp",
+    "card_image": "assets/img/services/construction-permit-sets-card.webp",
+    "image_alt": "Construction drawing set and floor plans laid out on a desk",
+    "h1_lead": "Permit sets that",
+    "h1_gold": "clear review the first time.",
+    "lede": "Complete construction and permit drawing packages prepared for your jurisdiction — assembled, cross-referenced and checked so plan review has nothing to send back.",
+    "stats": [
+      {
+        "value": "Jurisdiction",
+        "label": "Specific formatting"
+      },
+      {
+        "value": "Full set",
+        "label": "Cross-referenced"
+      },
+      {
+        "value": "$11.84",
+        "label": "Per hour from"
+      }
+    ],
+    "intro": [
+      "Permit rejections are almost never about design. They are about a missing schedule, an unreferenced detail, an egress calculation nobody wrote down. We assemble the whole package so those gaps do not exist.",
+      "Tell us the authority having jurisdiction and the code edition, and we format the set the way that office expects to receive it — sheet order, index, general notes and all."
+    ],
+    "deliverables": [
+      {
+        "title": "Full drawing package",
+        "text": "Site, architectural, dimension, RCP and roof plans plus elevations and building sections."
+      },
+      {
+        "title": "Construction details",
+        "text": "Wall types, assemblies, junctions and typical details drawn to match the specified build-up."
+      },
+      {
+        "title": "Door, window & finish schedules",
+        "text": "Complete schedules cross-referenced to plan tags, with no orphan marks in either direction."
+      },
+      {
+        "title": "Code compliance sheets",
+        "text": "Egress, occupancy, accessibility and area calculations set out clearly for the reviewer."
+      },
+      {
+        "title": "General notes & index",
+        "text": "Sheet index, abbreviations, symbol legend and the general notes your jurisdiction expects."
+      },
+      {
+        "title": "Consultant coordination",
+        "text": "Structural, MEP and civil drawings aligned to the architectural set before issue."
+      }
+    ],
+    "process": [
+      {
+        "title": "Jurisdiction check",
+        "text": "We confirm the authority, code edition and submission checklist before drafting anything."
+      },
+      {
+        "title": "Set assembly",
+        "text": "Sheets built out in order from the model, with the index and referencing wired up as we go."
+      },
+      {
+        "title": "Cross-reference QA",
+        "text": "Every tag, section mark and detail callout verified in both directions by a second pair of eyes."
+      },
+      {
+        "title": "Issue & revisions",
+        "text": "Stamped-ready PDFs and natives, plus fast turnaround on any review comments that come back."
+      }
+    ],
+    "tools": [
+      "Autodesk Revit",
+      "AutoCAD",
+      "Bluebeam Revu",
+      "Navisworks",
+      "Adobe Acrobat"
+    ],
+    "faqs": [
+      {
+        "q": "Can you stamp the drawings?",
+        "a": "No — we are a drafting and design partner, not the architect of record. Your licensed architect or engineer reviews and stamps the set. We prepare everything so that review is quick and there is nothing to correct."
+      },
+      {
+        "q": "Do you know our local code requirements?",
+        "a": "We work to the code edition and amendments you specify, most commonly the IRC and IBC with state and city amendments. Send the plan-review checklist your office uses and we build the set against it item by item."
+      },
+      {
+        "q": "What if the permit office sends comments back?",
+        "a": "Send them over and we turn the revisions around as a priority task inside your subscription — there is no separate charge for responding to review comments."
+      },
+      {
+        "q": "How fast is a typical permit set?",
+        "a": "A single-family residential set is usually five to ten working days depending on complexity and how complete the design information is. We confirm a date in writing before starting."
+      }
+    ],
+    "related": [
+      "revit-drafting",
+      "architecture-design",
+      "point-cloud-to-bim"
+    ],
+    "portfolio_filter": "bim",
+    "meta_title": "Construction Documents & Permit Set Services | Archilance LLC",
+    "meta_description": "Outsource construction documents and permit sets from $11.84/hr — code-compliant drawing packages prepared for your jurisdiction, ready for stamping.",
+    "meta_keywords": "construction document services, permit set drafting, permit drawings outsourcing, construction drawings service, code compliant drawing set, building permit plans",
+    "sort": 4
+  },
+  {
+    "slug": "3d-modeling-rendering",
+    "name": "3D Modeling & Rendering",
+    "short_name": "3D Modeling & Rendering",
+    "icon": "i-svc-render",
+    "hero_image": "assets/img/services/3d-modeling-rendering-hero.webp",
+    "hero_image_sm": "assets/img/services/3d-modeling-rendering-hero-sm.webp",
+    "card_image": "assets/img/services/3d-modeling-rendering-card.webp",
+    "image_alt": "Photoreal architectural interior visualisation of a modern open-plan space",
+    "h1_lead": "Renders that sell",
+    "h1_gold": "the idea before it is built.",
+    "lede": "Photoreal exterior and interior visualisation — the images that get a scheme approved, a unit reserved or a board convinced.",
+    "stats": [
+      {
+        "value": "4K",
+        "label": "Delivered resolution"
+      },
+      {
+        "value": "2-4 days",
+        "label": "Typical turnaround"
+      },
+      {
+        "value": "$11.84",
+        "label": "Per hour from"
+      }
+    ],
+    "intro": [
+      "A render either earns its fee at a planning meeting or it does not. We light and frame images the way a photographer would shoot the finished building — real materials, believable weather, a camera height that matches how people will actually see it.",
+      "Send a Revit model, a SketchUp file or just plans and elevations. We build or clean up the geometry, dress the scene, and come back with images your client can put straight into a brochure."
+    ],
+    "deliverables": [
+      {
+        "title": "Exterior visualisation",
+        "text": "Street-level, aerial and dusk views with context, landscape and believable lighting."
+      },
+      {
+        "title": "Interior visualisation",
+        "text": "Room-by-room images with real material specifications, not generic stand-ins."
+      },
+      {
+        "title": "360° panoramas",
+        "text": "Navigable panoramas clients can open on a phone and look around inside."
+      },
+      {
+        "title": "Material & lighting studies",
+        "text": "Side-by-side options so the client chooses a finish from images rather than samples."
+      },
+      {
+        "title": "Aerial & site context",
+        "text": "Massing shown in its real surroundings using map or survey data."
+      },
+      {
+        "title": "Marketing image sets",
+        "text": "Consistent image families sized for brochure, web and hoarding in one pass."
+      }
+    ],
+    "process": [
+      {
+        "title": "Model & reference",
+        "text": "You send geometry or drawings plus any material and mood reference. We confirm camera angles first."
+      },
+      {
+        "title": "Grey-scale views",
+        "text": "Untextured camera tests so composition and viewpoint are agreed before any time goes into lighting."
+      },
+      {
+        "title": "Materials & lighting",
+        "text": "Real finishes applied, scene lit and dressed, first draft issued for comment."
+      },
+      {
+        "title": "Final & retouch",
+        "text": "Comments applied, rendered at full resolution and post-processed for delivery."
+      }
+    ],
+    "tools": [
+      "D5 Render",
+      "Lumion",
+      "3ds Max",
+      "Corona",
+      "V-Ray",
+      "Enscape",
+      "Twinmotion",
+      "Photoshop"
+    ],
+    "faqs": [
+      {
+        "q": "What do you need from us to start?",
+        "a": "Ideally a 3D model in Revit, SketchUp or Rhino. If you only have 2D plans and elevations we will build the model as part of the job — just tell us the material intent and we will take it from there."
+      },
+      {
+        "q": "How many rounds of changes are included?",
+        "a": "Unlimited within your subscription. In practice most images settle after one round because we agree camera angles and composition on grey-scale views before spending time on lighting."
+      },
+      {
+        "q": "What resolution do the images come in?",
+        "a": "4K as standard, and print resolution on request at no extra cost. You get the flat images plus layered files if you want to retouch further."
+      },
+      {
+        "q": "Can you match our previous visualiser's style?",
+        "a": "Yes. Send examples of the look you want to keep and we will match the treatment — lighting temperature, contrast, level of entourage and post-processing."
+      }
+    ],
+    "related": [
+      "3d-architectural-animation",
+      "interior-design",
+      "architecture-design"
+    ],
+    "portfolio_filter": "render",
+    "meta_title": "3D Architectural Rendering & Modeling Services | Archilance LLC",
+    "meta_description": "Photoreal 3D architectural rendering from $11.84/hr — exterior and interior visuals, aerials and 360 panoramas that win approvals and sell units.",
+    "meta_keywords": "3d architectural rendering services, 3d modeling services architecture, exterior rendering, interior rendering services, architectural visualization outsourcing, photoreal render",
+    "sort": 5
+  },
+  {
+    "slug": "3d-architectural-animation",
+    "name": "3D Architectural Animation",
+    "short_name": "3D Animation",
+    "icon": "i-svc-animation",
+    "hero_image": "assets/img/services/3d-architectural-animation-hero.webp",
+    "hero_image_sm": "assets/img/services/3d-architectural-animation-hero-sm.webp",
+    "card_image": "assets/img/services/3d-architectural-animation-card.webp",
+    "image_alt": "Video editing timeline on screen during animation post-production",
+    "h1_lead": "Walkthroughs that",
+    "h1_gold": "move people through the building.",
+    "lede": "Storyboarded flythroughs, interior walkthroughs and construction sequences — 4K film that explains a building faster than any drawing set.",
+    "stats": [
+      {
+        "value": "4K 60fps",
+        "label": "Delivered master"
+      },
+      {
+        "value": "Storyboard",
+        "label": "Agreed up front"
+      },
+      {
+        "value": "$11.84",
+        "label": "Per hour from"
+      }
+    ],
+    "intro": [
+      "A still image shows a moment. An animation shows the sequence — arrival, approach, threshold, the view that opens up when you turn the corner. For a sales suite or a public consultation that difference decides the outcome.",
+      "We storyboard before we render, so the camera move is agreed while it is still cheap to change. Then we build, light, animate and grade the film, and deliver a master plus the cut-downs your marketing team needs."
+    ],
+    "deliverables": [
+      {
+        "title": "Exterior flythroughs",
+        "text": "Aerial and approach sequences that place the building in its real context."
+      },
+      {
+        "title": "Interior walkthroughs",
+        "text": "Continuous camera moves through the spaces at natural walking height and pace."
+      },
+      {
+        "title": "Construction sequences",
+        "text": "Phased build-up animations for programme, method statements and stakeholder briefings."
+      },
+      {
+        "title": "Storyboards & animatics",
+        "text": "The camera plan agreed as a low-cost animatic before full rendering begins."
+      },
+      {
+        "title": "Sound & grading",
+        "text": "Licensed music, ambience and a colour grade so the film feels finished, not like a viewport capture."
+      },
+      {
+        "title": "Social cut-downs",
+        "text": "Vertical and square edits sized for Instagram, LinkedIn and site hoarding screens."
+      }
+    ],
+    "process": [
+      {
+        "title": "Script & storyboard",
+        "text": "We agree the story, the length and every camera move as frames before anything renders."
+      },
+      {
+        "title": "Animatic",
+        "text": "A fast grey-scale animatic to confirm pacing and timing while changes are still free."
+      },
+      {
+        "title": "Full render",
+        "text": "Scene dressed, lit and rendered at 4K across our render nodes."
+      },
+      {
+        "title": "Edit & grade",
+        "text": "Cut, scored, graded and delivered as a master plus the formats you need."
+      }
+    ],
+    "tools": [
+      "Lumion",
+      "D5 Render",
+      "3ds Max",
+      "Twinmotion",
+      "After Effects",
+      "Premiere Pro",
+      "DaVinci Resolve"
+    ],
+    "faqs": [
+      {
+        "q": "How long should an architectural animation be?",
+        "a": "Sixty to ninety seconds works for most sales and planning purposes — long enough to tell the story, short enough that people watch to the end. We will advise on length once we know where the film will be shown."
+      },
+      {
+        "q": "How long does an animation take?",
+        "a": "Typically two to four weeks depending on length and scene complexity. The storyboard and animatic come back in the first few days, so you see and approve the shape of it early."
+      },
+      {
+        "q": "Can you animate from our existing Revit model?",
+        "a": "Yes. We take your Revit, SketchUp or Rhino model, prepare it for animation and add the entourage, landscape and lighting a film needs but a design model normally does not carry."
+      },
+      {
+        "q": "Is the music licensed?",
+        "a": "Yes. Every track we use is properly licensed for commercial use, and the licence is transferred with the delivery so you can publish without any concern."
+      }
+    ],
+    "related": [
+      "3d-modeling-rendering",
+      "architecture-design",
+      "interior-design"
+    ],
+    "portfolio_filter": "render",
+    "meta_title": "3D Architectural Animation Services | Archilance LLC",
+    "meta_description": "Architectural animation from $11.84/hr — walkthroughs, flythroughs and construction sequences in 4K, storyboarded and scored, for approvals and sales.",
+    "meta_keywords": "3d architectural animation, architectural walkthrough video, flythrough animation services, construction sequence animation, 3d animation outsourcing architecture",
+    "sort": 6
+  },
+  {
+    "slug": "point-cloud-to-bim",
+    "name": "Point Cloud to BIM",
+    "short_name": "Point Cloud to BIM",
+    "icon": "i-svc-scan",
+    "hero_image": "assets/img/services/point-cloud-to-bim-hero.webp",
+    "hero_image_sm": "assets/img/services/point-cloud-to-bim-hero-sm.webp",
+    "card_image": "assets/img/services/point-cloud-to-bim-card.webp",
+    "image_alt": "Surveyor operating a total station on a building site",
+    "h1_lead": "Scan data into",
+    "h1_gold": "a model you can actually build from.",
+    "lede": "Registered point clouds converted into accurate as-built Revit models — with a stated deviation tolerance, so you know exactly how much to trust the geometry.",
+    "stats": [
+      {
+        "value": "±10mm",
+        "label": "Typical tolerance"
+      },
+      {
+        "value": "LOD 200-350",
+        "label": "As-built detail"
+      },
+      {
+        "value": "$11.84",
+        "label": "Per hour from"
+      }
+    ],
+    "intro": [
+      "Renovation and retrofit work fails on bad existing-conditions information. A point cloud has the truth in it, but a cloud is not a model — somebody has to decide where the wall actually is when the scan says it leans 30mm over three metres.",
+      "That judgement is the job. We model to an agreed tolerance, flag what deviates beyond it, and hand you a Revit model that is honest about the building rather than tidily wrong."
+    ],
+    "deliverables": [
+      {
+        "title": "As-built Revit models",
+        "text": "Existing conditions modelled to LOD 200-350 with a documented accuracy tolerance."
+      },
+      {
+        "title": "Registered point clouds",
+        "text": "Scan data cleaned, registered and indexed into .rcp ready to link into your project."
+      },
+      {
+        "title": "Deviation reporting",
+        "text": "Heat-mapped comparison showing where the built fabric departs from the modelled geometry."
+      },
+      {
+        "title": "MEP as-builts",
+        "text": "Existing services modelled from scan data for retrofit and clash coordination."
+      },
+      {
+        "title": "2D from 3D",
+        "text": "Existing plans, elevations and sections generated from the verified as-built model."
+      },
+      {
+        "title": "Heritage documentation",
+        "text": "Detailed modelling of period fabric and mouldings where the profile genuinely matters."
+      }
+    ],
+    "process": [
+      {
+        "title": "Data intake",
+        "text": "You send E57, RCP or raw scans. We check coverage and tell you honestly if anything is missing before quoting."
+      },
+      {
+        "title": "Registration & clean-up",
+        "text": "Clouds registered, noise and clutter stripped, coordinate system aligned to your project base point."
+      },
+      {
+        "title": "Modelling to tolerance",
+        "text": "Elements modelled to the agreed deviation, with anything outside it flagged rather than silently straightened."
+      },
+      {
+        "title": "Verify & deliver",
+        "text": "Model checked back against the cloud, deviation report issued with the native .rvt."
+      }
+    ],
+    "tools": [
+      "Autodesk Recap",
+      "Autodesk Revit",
+      "Navisworks",
+      "CloudCompare",
+      "Faro Scene",
+      "Dynamo"
+    ],
+    "faqs": [
+      {
+        "q": "Do you carry out the laser scanning yourself?",
+        "a": "We work from scan data you or your survey contractor provide. We are happy to brief the surveyor on coverage, station spacing and target placement beforehand so the data arrives fit for modelling."
+      },
+      {
+        "q": "What accuracy can we expect?",
+        "a": "We normally model to a tolerance of around 10mm against the registered cloud, and we agree that figure with you before starting. Anything that deviates beyond the tolerance is flagged in the deviation report rather than quietly adjusted."
+      },
+      {
+        "q": "What file formats do you accept?",
+        "a": "E57, RCP, RCS, PTS, PTX and LAS, plus the native formats from Faro, Leica, Trimble and Matterport. If your data is in something unusual, send a sample and we will confirm before you commit."
+      },
+      {
+        "q": "Can you model existing MEP services from a scan?",
+        "a": "Yes. Existing mechanical, electrical and plumbing runs are frequently the reason a retrofit needs a scan, and we model them to the level of detail your coordination actually requires."
+      }
+    ],
+    "related": [
+      "revit-drafting",
+      "construction-permit-sets",
+      "architecture-design"
+    ],
+    "portfolio_filter": "bim",
+    "meta_title": "Point Cloud to BIM & Scan to BIM Services | Archilance LLC",
+    "meta_description": "Scan to BIM conversion from $11.84/hr — registered point clouds turned into accurate LOD 200-350 Revit models of existing buildings, with a stated tolerance.",
+    "meta_keywords": "point cloud to bim, scan to bim services, laser scan to revit, as built bim modelling, existing building bim survey, revit as built model",
+    "sort": 7
+  },
+  {
+    "slug": "interior-design",
+    "name": "Interior Design Services",
+    "short_name": "Interior Design",
+    "icon": "i-svc-interior",
+    "hero_image": "assets/img/services/interior-design-hero.webp",
+    "hero_image_sm": "assets/img/services/interior-design-hero-sm.webp",
+    "card_image": "assets/img/services/interior-design-card.webp",
+    "image_alt": "Contemporary neutral living room with timber screen and soft daylight",
+    "h1_lead": "Interiors resolved to",
+    "h1_gold": "the last joinery detail.",
+    "lede": "Space planning, materials, lighting and FF&E — interiors drawn to the level a contractor can build from, not just moodboarded.",
+    "stats": [
+      {
+        "value": "FF&E",
+        "label": "Scheduled & priced"
+      },
+      {
+        "value": "1:5",
+        "label": "Joinery details"
+      },
+      {
+        "value": "$11.84",
+        "label": "Per hour from"
+      }
+    ],
+    "intro": [
+      "Interior packages fall apart between the moodboard and the site. The image looks beautiful, then nobody has drawn the joinery, scheduled the ironmongery or checked that the pendant clears the island.",
+      "We take interiors all the way through: layouts that work, finishes that are specified by product code, details a joiner can price, and visuals that match what will actually be installed."
+    ],
+    "deliverables": [
+      {
+        "title": "Space planning",
+        "text": "Layout options tested against circulation, sight lines, storage and the way the room is actually used."
+      },
+      {
+        "title": "Material & finish boards",
+        "text": "Specified by manufacturer and product code, not by adjective."
+      },
+      {
+        "title": "FF&E schedules",
+        "text": "Furniture, fixtures and equipment scheduled with quantities, references and lead times."
+      },
+      {
+        "title": "Joinery & detail drawings",
+        "text": "1:20 and 1:5 details for bespoke cabinetry, wardrobes and feature elements."
+      },
+      {
+        "title": "Reflected ceiling & lighting",
+        "text": "Ceiling plans, lighting layouts and switching drawn to work with the interior, not fight it."
+      },
+      {
+        "title": "Interior visualisation",
+        "text": "Photoreal images that use the actual specified finishes so nothing surprises anyone on site."
+      }
+    ],
+    "process": [
+      {
+        "title": "Brief & budget",
+        "text": "Use, occupancy, style direction and the finish budget agreed before a layout is drawn."
+      },
+      {
+        "title": "Layouts & palette",
+        "text": "Plan options with a material palette so spatial and aesthetic decisions happen together."
+      },
+      {
+        "title": "Detail & schedule",
+        "text": "Joinery details, RCPs and the FF&E schedule developed into a package that can be priced."
+      },
+      {
+        "title": "Visualise & issue",
+        "text": "Renders of the agreed scheme, then the drawing set and schedules in native formats."
+      }
+    ],
+    "tools": [
+      "SketchUp",
+      "Autodesk Revit",
+      "AutoCAD",
+      "Lumion",
+      "D5 Render",
+      "Photoshop",
+      "InDesign"
+    ],
+    "faqs": [
+      {
+        "q": "Do you specify products we can actually buy?",
+        "a": "Yes. We specify by manufacturer and product code from suppliers available in your market. If you have preferred suppliers or a trade account, we specify within it."
+      },
+      {
+        "q": "Can you work to a fixed finish budget?",
+        "a": "Yes. Tell us the budget per room or per square metre and we specify to it, with alternates at different price points where a choice is genuinely worth having."
+      },
+      {
+        "q": "Do you draw bespoke joinery?",
+        "a": "Yes — 1:20 general arrangements and 1:5 details for cabinetry, wardrobes, reception desks and feature walls, dimensioned so a joiner can price and build without a site meeting."
+      },
+      {
+        "q": "Can you do interiors for commercial spaces?",
+        "a": "Yes. Offices, gyms, clinics, retail and hospitality are all regular work, including the occupancy, accessibility and egress considerations those uses bring with them."
+      }
+    ],
+    "related": [
+      "3d-modeling-rendering",
+      "architecture-design",
+      "landscape-architecture"
+    ],
+    "portfolio_filter": "interior",
+    "meta_title": "Interior Design & Visualisation Services | Archilance LLC",
+    "meta_description": "Outsource interior design from $11.84/hr — space planning, FF&E schedules, joinery details, material boards and photoreal interior visuals.",
+    "meta_keywords": "interior design services outsourcing, space planning services, ffe schedule interior design, joinery detail drawings, interior visualisation services, interior fit out drawings",
+    "sort": 8
+  }
+]

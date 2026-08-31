@@ -1,0 +1,234 @@
+[
+  {
+    "category_slug": "general",
+    "category_name": "General",
+    "category_sort": 1,
+    "question": "What exactly does Archilance do?",
+    "answer": "We are an architecture outsourcing studio. Firms, builders and developers send us design and drawing work — concept design, Revit and BIM modelling, construction and permit sets, 3D rendering, animation, interiors and landscape — and we deliver it in their own templates and standards. In practice we function as your studio's extra floor of architects.",
+    "sort": 1
+  },
+  {
+    "category_slug": "general",
+    "category_name": "General",
+    "category_sort": 1,
+    "question": "Who do you normally work with?",
+    "answer": "Architecture practices that need capacity without hiring, builders and developers who need drawings to price and permit, and design-build firms who want visualisation and documentation from one team. Project sizes run from a single ADU to multi-storey mixed-use schemes.",
+    "sort": 2
+  },
+  {
+    "category_slug": "general",
+    "category_name": "General",
+    "category_sort": 1,
+    "question": "Where are you based, and do your hours overlap with mine?",
+    "answer": "We have offices in Dover, Delaware and Lahore, Pakistan. Between them we cover working hours across the US, UK, Europe, the Gulf, Australia and New Zealand. In practice most clients get same-day answers and overnight turnaround on drawing work.",
+    "sort": 3
+  },
+  {
+    "category_slug": "general",
+    "category_name": "General",
+    "category_sort": 1,
+    "question": "Can I hire you for just one project?",
+    "answer": "Yes. You can engage us per project at $28 per hour, or on a monthly subscription from $1,895 if the work is continuous. Most firms start with one project and move to a subscription once the flow is steady.",
+    "sort": 4
+  },
+  {
+    "category_slug": "general",
+    "category_name": "General",
+    "category_sort": 1,
+    "question": "Will you sign an NDA?",
+    "answer": "Yes, before any file changes hands if you would like. We work under client NDAs as a matter of routine and never show work publicly without written permission — several of our largest projects are not in the portfolio for exactly that reason.",
+    "sort": 5
+  },
+  {
+    "category_slug": "general",
+    "category_name": "General",
+    "category_sort": 1,
+    "question": "Who owns the drawings and the intellectual property?",
+    "answer": "You do, completely and on delivery. Every model, drawing, image and source file we produce is yours. We claim no licence over it and we do not reuse client work.",
+    "sort": 6
+  },
+  {
+    "category_slug": "pricing",
+    "category_name": "Pricing & subscription",
+    "category_sort": 2,
+    "question": "How much does it cost?",
+    "answer": "Three ways to buy. The Basic subscription is $1,895 a month for 160 hours, which works out at $11.84 an hour. The Standard subscription is $2,500 a month for 240 hours, or $10.42 an hour. Hourly engagements are $28 an hour with no commitment.",
+    "sort": 1
+  },
+  {
+    "category_slug": "pricing",
+    "category_name": "Pricing & subscription",
+    "category_sort": 2,
+    "question": "What is included in a subscription?",
+    "answer": "Unlimited design requests and revisions, weekly meetings, time tracking, a dedicated project manager on Standard, and access to every one of our eight services. There is no per-service pricing to negotiate — you move hours between disciplines as the project needs them.",
+    "sort": 2
+  },
+  {
+    "category_slug": "pricing",
+    "category_name": "Pricing & subscription",
+    "category_sort": 2,
+    "question": "What is the difference between Basic and Standard?",
+    "answer": "Basic gives you 160 hours a month, one active task at a time and one dedicated team member. Standard gives you 240 hours, multiple active tasks in parallel, a dedicated project manager and two dedicated team members. Both include unlimited requests and revisions.",
+    "sort": 3
+  },
+  {
+    "category_slug": "pricing",
+    "category_name": "Pricing & subscription",
+    "category_sort": 2,
+    "question": "How does the free trial work?",
+    "answer": "You get three days free on a single real project — not a demo task. If you are not satisfied with what comes back, we keep working at no charge until you are. No card is required to start.",
+    "sort": 4
+  },
+  {
+    "category_slug": "pricing",
+    "category_name": "Pricing & subscription",
+    "category_sort": 2,
+    "question": "Can I pause my subscription?",
+    "answer": "Yes, at any time. If you only have a week of work this month, pause and keep the remaining three weeks for when the next project lands. Unused time is not lost.",
+    "sort": 5
+  },
+  {
+    "category_slug": "pricing",
+    "category_name": "Pricing & subscription",
+    "category_sort": 2,
+    "question": "Can I upgrade or downgrade later?",
+    "answer": "Yes, and you only pay the difference. Moving from a $1,495 package to the $1,895 plan costs an additional $400, nothing more. Downgrades take effect from the next billing cycle.",
+    "sort": 6
+  },
+  {
+    "category_slug": "pricing",
+    "category_name": "Pricing & subscription",
+    "category_sort": 2,
+    "question": "Do you offer fixed-price quotes?",
+    "answer": "Yes. Send us the scope and we will quote a fixed price for the whole package. Fixed price suits well-defined work such as a permit set; subscriptions suit continuous or evolving work.",
+    "sort": 7
+  },
+  {
+    "category_slug": "process",
+    "category_name": "Process & delivery",
+    "category_sort": 3,
+    "question": "How do I send work, and how do I track it?",
+    "answer": "Drop tasks into your queue by email or in ClickUp, which we share with you. Every task shows its status, who is on it and hours logged. You reprioritise whenever you like and we work the queue in your order.",
+    "sort": 1
+  },
+  {
+    "category_slug": "process",
+    "category_name": "Process & delivery",
+    "category_sort": 3,
+    "question": "What are typical turnaround times?",
+    "answer": "A single render is two to four days. A residential permit set is five to ten working days. Concept design options come back within 48 hours. We confirm a date in writing before starting, and we tell you up front if a deadline is not realistic.",
+    "sort": 2
+  },
+  {
+    "category_slug": "process",
+    "category_name": "Process & delivery",
+    "category_sort": 3,
+    "question": "How many revisions do I get?",
+    "answer": "Unlimited on a subscription. We would rather iterate until it is right than argue about change orders. In practice things settle quickly because we agree camera angles, LOD and scope before the expensive work starts.",
+    "sort": 3
+  },
+  {
+    "category_slug": "process",
+    "category_name": "Process & delivery",
+    "category_sort": 3,
+    "question": "Who will I actually be talking to?",
+    "answer": "The architects and drafters doing your work, plus a project manager on Standard plans. There are no account managers in the middle, so nothing is lost in relay between your brief and the model.",
+    "sort": 4
+  },
+  {
+    "category_slug": "process",
+    "category_name": "Process & delivery",
+    "category_sort": 3,
+    "question": "What if I am not happy with the output?",
+    "answer": "During the trial you pay nothing and we keep going until it is right. On a subscription, revisions are unlimited. If we are genuinely not the right fit for a piece of work, we say so rather than take the job.",
+    "sort": 5
+  },
+  {
+    "category_slug": "process",
+    "category_name": "Process & delivery",
+    "category_sort": 3,
+    "question": "Can you handle rush work?",
+    "answer": "Often, yes. Tell us the deadline first and we will confirm honestly whether we can hit it before you commit. Our two-office coverage means work can continue while your office is closed.",
+    "sort": 6
+  },
+  {
+    "category_slug": "software",
+    "category_name": "Software & files",
+    "category_sort": 4,
+    "question": "What software do you work in?",
+    "answer": "Autodesk Revit, AutoCAD, SketchUp, Rhino, Navisworks, Civil 3D and Recap on the documentation side; D5 Render, Lumion, Enscape, 3ds Max, Corona, V-Ray and Twinmotion for visualisation; After Effects, Premiere Pro and Photoshop for post-production.",
+    "sort": 1
+  },
+  {
+    "category_slug": "software",
+    "category_name": "Software & files",
+    "category_sort": 4,
+    "question": "Will you work in our template and to our standards?",
+    "answer": "Always, and this is the part most firms care about. Send your Revit template, title block, shared parameters, layer standards and sheet naming convention and we work inside them. The output should look like your studio drew it.",
+    "sort": 2
+  },
+  {
+    "category_slug": "software",
+    "category_name": "Software & files",
+    "category_sort": 4,
+    "question": "What file formats do you deliver?",
+    "answer": "Native and editable — .rvt, .dwg, .skp, .3dm, .max — plus PDFs and images. Nothing arrives flattened or locked, and your team keeps working in the same tools afterwards.",
+    "sort": 3
+  },
+  {
+    "category_slug": "software",
+    "category_name": "Software & files",
+    "category_sort": 4,
+    "question": "Do you work in our version of Revit?",
+    "answer": "Yes. We work in your version and never upgrade a file without asking, because an unrequested version bump can strand a consultant who has not upgraded yet.",
+    "sort": 4
+  },
+  {
+    "category_slug": "software",
+    "category_name": "Software & files",
+    "category_sort": 4,
+    "question": "Can you convert CAD drawings or point clouds into Revit?",
+    "answer": "Both are routine work. CAD-to-Revit conversion rebuilds a legacy 2D set as a coordinated model. Scan-to-BIM turns registered point clouds into an as-built model at an agreed deviation tolerance, with anything outside that tolerance flagged rather than quietly straightened.",
+    "sort": 5
+  },
+  {
+    "category_slug": "working",
+    "category_name": "Working with us",
+    "category_sort": 5,
+    "question": "Can you stamp our drawings?",
+    "answer": "No — we are a design and drafting partner, not the architect of record. Your licensed architect or engineer reviews and stamps the set. We prepare everything so that review is quick and there is nothing to correct.",
+    "sort": 1
+  },
+  {
+    "category_slug": "working",
+    "category_name": "Working with us",
+    "category_sort": 5,
+    "question": "Do you know our local building codes?",
+    "answer": "We work to the code edition and amendments you specify, most commonly the IRC and IBC with state and city amendments. Send your plan-review checklist and we build the set against it item by item.",
+    "sort": 2
+  },
+  {
+    "category_slug": "working",
+    "category_name": "Working with us",
+    "category_sort": 5,
+    "question": "Can you scale up for a large project?",
+    "answer": "Yes. The studio is 48 people across architecture, BIM, documentation and visualisation, so we can put several people on one project without bringing in unknown freelancers. Standard subscribers can run multiple active tasks in parallel.",
+    "sort": 3
+  },
+  {
+    "category_slug": "working",
+    "category_name": "Working with us",
+    "category_sort": 5,
+    "question": "How do you handle confidentiality and data security?",
+    "answer": "NDAs on request before the first file moves, access limited to the people on your project, and file exchange through your own BIM 360, Dropbox, Drive or SharePoint if you prefer to keep data in your environment. We are ISO 9001 certified and our quality process covers document handling.",
+    "sort": 4
+  },
+  {
+    "category_slug": "working",
+    "category_name": "Working with us",
+    "category_sort": 5,
+    "question": "How do I get started?",
+    "answer": "Send us a sketch, a plan set, a Revit file or just a description of the project. You will get a scope, a timeline and a price, plus three free days on a live task before any money moves.",
+    "sort": 5
+  }
+]

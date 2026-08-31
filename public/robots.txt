@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Block internal / duplicate surfaces
+Disallow: /wp-admin/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /*?s=
+Disallow: /*?replytocom=
+
+# AI / answer engines — allowed, these drive referral traffic
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://archilance.net/sitemap.xml

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Richard Dyer",
+    "company": "Dyer Craftsmen and Design",
+    "platform": "Upwork",
+    "rating": 5,
+    "quote": "I originally met Faran through Upwork when seeking a 3D rendering architect for the plans I had designed in the US. As a builder and designer, I am very particular with the details from blueprints to photorealistic renderings, so I was skeptical not being fully aware of the quality Faran could produce. Now working on my 4th project with Faran — new construction home, ADUs, and large remodel/additions — I cannot recommend both him and his team enough. Their level of communication through the process, eagerness to have a satisfied client, and skill level to produce quality blueprints and renderings ranks among the top of any local architect I have worked with.",
+    "avatar": "assets/img/people/richard-dyer.webp",
+    "sort": 1
+  },
+  {
+    "name": "Samuel Williams",
+    "company": "Co-Founder, CustomHome.ai",
+    "platform": null,
+    "rating": 5,
+    "quote": "I had the pleasure of working with Faran Shahbaz and his Archilance team for three years, during which we collaborated on creating over 600 models in Revit. Their expertise in Revit and commitment to delivering high-quality, photorealistic renderings were instrumental in bringing our projects to life. Faran managed the BIM team with exceptional proficiency, ensuring that all tasks were completed efficiently and accurately. Their use of ClickUp to track and manage our records was particularly noteworthy, as it kept our projects organised and on schedule. I highly recommend Archilance LLC to anyone seeking top-notch architectural and BIM services.",
+    "avatar": "assets/img/people/samuel-williams.webp",
+    "sort": 2
+  },
+  {
+    "name": "Lauren Staniec",
+    "company": "re-habitat LLC",
+    "platform": "Upwork",
+    "rating": 5,
+    "quote": "I initially met Faran by hiring him on Upwork. It was a fantastic working relationship and I was thrilled to learn that he created Archilance LLC. We continue to work on projects where he and his team support me in building information modeling, drafting, as well as rendering services. Faran and his team at Archilance create a team environment where we work together to solve design problems — they are efficient, skilled, and a pleasure to work with. I cannot say enough and strongly recommend Faran and Archilance for any design and architecture needs!",
+    "avatar": "assets/img/people/lauren-staniec.webp",
+    "sort": 3
+  },
+  {
+    "name": "Rebecca Hobart",
+    "company": "thebexcollective.com",
+    "platform": null,
+    "rating": 5,
+    "quote": "I had the pleasure of working with Faran and his team on a residential remodeling project, where they provided detailed construction drawings and renderings. Their attention to detail, professionalism, and expertise were evident throughout the entire process. Not only did they deliver high-quality work, they were incredibly responsive and a joy to collaborate with — consistently addressing questions and revisions promptly. I would highly recommend Archilance to anyone in need of detailed construction drawings and renderings.",
+    "avatar": "assets/img/people/rebecca-hobart.webp",
+    "sort": 4
+  },
+  {
+    "name": "J. Justin Garcia",
+    "company": "AE Leuken Architectural Engineers",
+    "platform": null,
+    "rating": 5,
+    "quote": "Faran and his team have been great to work with. I recommend them especially for point cloud as-built drawings — they have done an amazing job.",
+    "avatar": "assets/img/people/justin-garcia.webp",
+    "sort": 5
+  },
+  {
+    "name": "Randy H.",
+    "company": "R Build & Design",
+    "platform": null,
+    "rating": 5,
+    "quote": "I highly recommend Faran Shahbaz and Archilance for architectural design services. Their expertise in innovative, functional and aesthetically compelling designs ensures high-quality project execution. With a strong focus on precision, creativity and client satisfaction, they deliver exceptional solutions tailored to diverse architectural needs.",
+    "avatar": "assets/img/people/randy-h.webp",
+    "sort": 6
+  },
+  {
+    "name": "Jeffery Chan",
+    "company": "via LinkedIn",
+    "platform": "LinkedIn",
+    "rating": 5,
+    "quote": "I highly recommend Faran for his exceptional skills as a CAD designer and 3D rendering expert. We have the pleasure of contracting him for 3D models and renderings, both for our customers and our internal needs. Faran consistently delivers work that is professional, accurate and artistically impressive. What sets him apart is not only his technical expertise but also his responsiveness and prompt communication, which make working with him seamless.",
+    "avatar": null,
+    "sort": 7
+  },
+  {
+    "name": "Brandon",
+    "company": "via Upwork",
+    "platform": "Upwork",
+    "rating": 5,
+    "quote": "Asad was amazing for our project! He is incredibly responsive and professional. We completely re-designed a space into our new location. All plans were perfect for permits and we are now open for business after having implemented the plans we built together. Highly recommend!",
+    "avatar": null,
+    "sort": 8
+  },
+  {
+    "name": "Ivan",
+    "company": "via Upwork",
+    "platform": "Upwork",
+    "rating": 5,
+    "quote": "It was a pleasure to work with Asad. He followed instructions with strong attention to detail and accepted all my adjustments without a single issue. On top of that, his responsiveness was excellent. A very professional and capable architect that I would not hesitate to recommend to my network.",
+    "avatar": "assets/img/people/ivan.webp",
+    "sort": 9
+  },
+  {
+    "name": "Omar",
+    "company": "via Upwork",
+    "platform": "Upwork",
+    "rating": 5,
+    "quote": "Asad was extremely mindful about fully understanding the scope of the project and willing to go above and beyond even when things took a slight pivot. He is an extremely skilled architect and I plan to work with him again in the future.",
+    "avatar": "assets/img/people/omar.webp",
+    "sort": 10
+  },
+  {
+    "name": "Elizabeth Hunt Interiors",
+    "company": "via Upwork",
+    "platform": "Upwork",
+    "rating": 5,
+    "quote": "Faran made quick work of a model I needed constructed for a permit document. The roof was challenging, and he was able to present it well. Will use him in the future.",
+    "avatar": null,
+    "sort": 11
+  },
+  {
+    "name": "Nozti Ltd",
+    "company": "via Upwork",
+    "platform": "Upwork",
+    "rating": 5,
+    "quote": "Asad Abbasi is one of the best designers I have ever worked with. He listened to me every time I asked for modifications, he was polite with every request, and the render quality was exactly as I asked. Truly a pleasure to work with — I will hire him again for another big project.",
+    "avatar": null,
+    "sort": 12
+  }
+]
