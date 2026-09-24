@@ -2330,7 +2330,18 @@ ul { margin: 0; padding: 0; list-style: none; }
    -------------------------------------------------------------------------- */
 .eyebrow .ico { width: 16px; height: 16px; flex: none; }
 
-/* Service detail hero: copy on the left, stats stacked beside it on wide screens */
+/* Service detail hero: copy on the left, stats stacked beside it on wide screens.
+   .stat/.stat-strip are shared with the homepage's big horizontal counters
+   (single/double-digit values like "6" or "600+"), so their default size is
+   tuned for that. This sidebar carries much longer values — "LOD 200-350",
+   "±10mm", "Unlimited" — so it needs its own, smaller scale or those wrap
+   into an oversized two-line block that dwarfs the page title next to it. */
+.page-hero--service .stat b {
+  font-size: clamp(1.5rem, 1.1rem + 1.4vw, 2.15rem);
+  white-space: nowrap;
+}
+.page-hero--service .stat span { margin-top: .3rem; }
+
 .page-hero__grid { display: grid; gap: clamp(2rem, 4vw, 3.5rem); align-items: end; }
 @media (min-width: 992px) {
   .page-hero__grid { grid-template-columns: minmax(0, 1.35fr) minmax(0, .65fr); }
@@ -2344,6 +2355,9 @@ ul { margin: 0; padding: 0; list-style: none; }
     border-top: 0;
     border-left: 1px solid var(--line-dark);
   }
+  /* only the vertical sidebar layout needs left-aligned figures; the
+     horizontal mobile/tablet row stays centered like every other stat-strip */
+  .page-hero--service .page-hero__foot .stat { text-align: left; }
 }
 .page-hero__cta {
   display: flex;
